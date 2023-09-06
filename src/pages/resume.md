@@ -1,6 +1,6 @@
 ---
-layout: ../layouts/BaseLayout.astro
-pageTitle: Stephen Harwell
+layout: "../layouts/MarkdownPageLayout.astro"
+title: Stephen Harwell
 ---
 # Stephen Harwell
 Analytics and web management
