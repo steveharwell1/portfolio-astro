@@ -2,8 +2,6 @@
 layout: "../layouts/MarkdownPageLayout.astro"
 title: Stephen Harwell
 ---
-
-# Stephen Harwell
 Analytics and web management
 
 ## Education
