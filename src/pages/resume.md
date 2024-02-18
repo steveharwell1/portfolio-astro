@@ -2,14 +2,16 @@
 layout: "../layouts/MarkdownPageLayout.astro"
 title: Stephen Harwell
 ---
-*Analytics and web management*
+
+# Stephen Harwell
+Analytics and web management
 
 ## Education
 
-Masters of Science in **Business Analytics** with a Minor in Cyber Security, Dec 2023  
+Master of Science in **Business Analytics** with a Minor in Cyber Security, Dec 2023
 Texas A&M University-Commerce
 
-Bachelors of Science in **Computer Science** with a Minor in Mathematics, Dec 2019  
+Bachelor of Science in **Computer Science** with a Minor in Mathematics, Dec 2019
 Texas A&M University-Commerce
 
 ### Course Projects
@@ -22,7 +24,7 @@ Texas A&M University-Commerce
 - Designed a remote data access policy for a medium sized internet based company
 - Wrote a training on the proper process to request customer information from an internet service provider
 ## Experience
-**Web Applications Developer** May 2019 - present  
+**Web Applications Developer** May 2019 - present
 Texas A&M University-Commerce
 
 ## Current Committees and Appointments
@@ -51,11 +53,19 @@ Texas A&M University-Commerce
 - Wrote software to improved the websites response time to institutional changes
 
 ## Technical Skills
-|Category|Skills|
+| | |
 |---|---|
-|Software and Languages|SQL, JavaScript, PHP, SCSS, Python, React, Preact, Jupyter, Excel analytics plugin, Tableau, Adobe XD|
-|Development Skills|Technical SEO, Component authoring, Migration planning, Visual implementation, Application authoring, API Integrations|
-|Analysis skills|Research Proposals, Machine learning, Data warehousing, Forecasting, Segmentation, Decision modeling, ETL Pipelines|
+|**Software and Languages**|SQL, JavaScript, PHP, SCSS, Python, React, Preact, Jupyter, Excel analytics plugin, Tableau, Adobe XD|
+|**Development Skills**|Technical SEO, Component authoring, Migration planning, Visual implementation, Application authoring, API Integrations|
+|**Analysis skills**|Research Proposals, Machine learning, Data warehousing, Forecasting, Segmentation, Decision modeling, ETL Pipelines|
 
 ## References
-Available upon request
+
+**Paul Bryan** - 325.370.2643
+Director of Web Applications
+
+**Cathy Li** - 412.370.0476
+Manager of Creative Design
+
+**Chris Gage** - 903.461.1059
+Communications Specialist
